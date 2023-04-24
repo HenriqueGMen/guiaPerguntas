@@ -1,0 +1,12 @@
+body {
+  background-color: #dee1e2;
+}
+
+ nav>a>img {
+  width:40px;
+  height:40px
+}
+
+#campo-pergunta {
+ margin-top: 5vh;
+}
